@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kristian Paul</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Kristian Paul Enore also knows as Krisore </h1>
+<h3 align="center"> A passionate Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisore&label=Profile%20views&color=0e75b6&style=flat" alt="krisore" /> </p>
 
